@@ -9,8 +9,11 @@ description: A list of Lavalink client libraries.
 | [Lavalink-Client](https://github.com/lavalink-devs/Lavalink-Client) | Java/Kotlin/JVM | JDA/Discord4J/**Any**                      | Uses reactor                   |
 | [Lavalink.kt](https://github.com/DRSchlaubi/Lavalink.kt)            | Kotlin          | Kord/JDA/**Any**                           | Kotlin Coroutines              |
 | [DisGoLink](https://github.com/disgoorg/disgolink)                  | Go              | **Any**                                    |                                |
+| [lavalink.py](https://github.com/devoxin/lavalink.py)               | Python          | **Any**                                    |                                |
 | [Mafic](https://github.com/ooliver1/mafic)                          | Python          | discord.py **V2**/nextcord/disnake/py-cord |                                |
 | [Wavelink](https://github.com/PythonistaGuild/Wavelink)             | Python          | discord.py **V2**                          |                                |
+| [Pomice](https://github.com/cloudwithax/pomice)                     | Python          | discord.py **V2**                          |                                |
+| [hikari-ongaku](https://github.com/MPlatypus/hikari-ongaku)         | Python          | Hikari                                     | `asyncio`-based                |
 | [Moonlink.js](https://github.com/1Lucas1apk/moonlink.js)            | Node.js         | **Any**                                    |                                |
 | [Magmastream](https://github.com/Blackfort-Hosting/magmastream)     | Node.js         | **Any**                                    |                                |
 | [Lavacord](https://github.com/lavacord/Lavacord)                    | Node.js         | **Any**                                    |                                |
@@ -19,9 +22,11 @@ description: A list of Lavalink client libraries.
 | [FastLink](https://github.com/PerformanC/FastLink)                  | Node.js         | **Any**                                    |                                |
 | [Riffy](https://github.com/riffy-team/riffy)                        | Node.js         | **Any**                                    |                                |
 | [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp)       | .NET            | DisCatSharp                                | v10.4.2+                       |
-| [Lavalink4NET](https://github.com/angelobreuer/Lavalink4NET)        | .NET            | Discord.Net/DSharpPlus/Remora              | v4+                            |
+| [Lavalink4NET](https://github.com/angelobreuer/Lavalink4NET)        | .NET            | Discord.Net/DSharpPlus/Remora/NetCord      | v4+                            |
+| [Nomia](https://github.com/DHCPCD9/Nomia)                           | .NET            | DSharpPlus                                 |                                |
 | [Coglink](https://github.com/PerformanC/Coglink)                    | C               | Concord                                    |                                |
 | [lavalink-rs](https://gitlab.com/vicky5124/lavalink-rs)             | Rust, Python    | **Any**                                    | `tokio`-based, `asyncio`-based |
+| [lavalink](https://github.com/nyxx-discord/nyxx_lavalink)           | Dart            | nyxx/**Any**                               |                                |
 
 <details markdown="1">
 <summary>v3.7 supporting Client Libraries</summary>
@@ -38,7 +43,6 @@ description: A list of Lavalink client libraries.
 | [Shoukaku](https://github.com/Deivu/Shoukaku)                 | Node.js  | **Any**                                    |                                 |
 | [Cosmicord.js](https://github.com/SudhanPlayz/Cosmicord.js)   | Node.js  | **Any**                                    |                                 |
 | [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp) | .NET     | DisCatSharp                                | Only prior v10.4.1              |
-| [Nomia](https://github.com/DHCPCD9/Nomia)                     | .NET     | DSharpPlus                                 |                                 |
 | [Lavalink4NET](https://github.com/angelobreuer/Lavalink4NET)  | .NET     | Discord.Net/DSharpPlus                     | < v4                            |
 | [DisGoLink](https://github.com/disgoorg/disgolink)            | Go       | **Any**                                    |                                 |
 

@@ -40,7 +40,7 @@ fun VersionCatalogBuilder.spring() {
 fun VersionCatalogBuilder.voice() {
     version("lavaplayer", "1.5.3")
 
-    library("lavaplayer",            "dev.arbjerg", "lavaplayer").versionRef("lavaplayer")
+    library("lavaplayer",            "com.github.supern64", "lavaplayer").versionRef("e43a19f92c")
     library("lavaplayer-ip-rotator", "dev.arbjerg", "lavaplayer-ext-youtube-rotator").versionRef("lavaplayer")
     library("lavadsp",               "dev.arbjerg", "lavadsp").version("0.7.8")
 
